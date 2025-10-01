@@ -32,6 +32,6 @@ JavaScript:
 
 🔹 Event listeners for responsive animations
 
-Assets:
+Asset: 
 
 🖼️ mountain.jpg for background
